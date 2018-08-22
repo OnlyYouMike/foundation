@@ -18,8 +18,6 @@
         <relativePath>../aifenxiang-center</relativePath>
     </parent>
 
-
-
     <dependencies>
 
         <dependency>
@@ -38,10 +36,7 @@
             <version>1.3.2</version>
         </dependency>
 
-
-
         <!--aifenxiang-->
     </dependencies>
-
 
 </project>
